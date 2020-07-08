@@ -5,10 +5,11 @@
   "author": "Ekaterina Zaytseva",
   "private": true,
   "scripts": {
-    "dev": "nuxt",
-    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "build": "nuxt",
     "start": "nuxt",
-    "generate": "nuxt generate"
+    "generate": "nuxt generate",
+    "heroku-postbuild": "npm run build"
   },
   "dependencies": {
     "nuxt": "^2.0.0",
