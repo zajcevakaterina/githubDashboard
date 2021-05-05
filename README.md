@@ -1,4 +1,4 @@
-# GitHub Dashboard - https://gh-board.herokuapp.com/
+# GitHub Dashboard
 Автор проекта - Екатерина Зайцева.
 
 ## Содержание проекта
